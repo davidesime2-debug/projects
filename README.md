@@ -1,5 +1,7 @@
 # projects
 
+Subchannel_code_CTF_flow_map_ML : master thesis
+
 Report_PET : bachledor thesis, Report_PET_eng translated version.
 
 CompAct : internship report.
